@@ -1,0 +1,26 @@
+.edit-button{
+    color: white;
+    padding: 1rem;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    margin-left: 8px;
+    margin-top: 1rem;
+    cursor: pointer;
+    background-color: indigo;
+}
+.cancel-button{
+    color: white;
+    padding: 1rem;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    margin-left: 8px;
+    margin-top: 1rem;
+    cursor: pointer;
+    background-color: red;
+}
+.edit{
+    margin: auto;
+    margin-left: 10%;
+}

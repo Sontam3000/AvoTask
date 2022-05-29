@@ -1,0 +1,25 @@
+{
+  "tables": [
+    {
+      "layout": "Layout3",
+      "name": "test555",
+      "capacity": "99",
+      "status": true,
+      "id": 4
+    },
+    {
+      "layout": "Layout3",
+      "name": "kkll",
+      "capacity": "45555",
+      "status": true,
+      "id": 5
+    },
+    {
+      "layout": "Layout1",
+      "name": "test",
+      "capacity": "44",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
